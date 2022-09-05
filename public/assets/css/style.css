@@ -1,0 +1,79 @@
+
+.articlebg
+ {
+   background-image:url('assets/images/article-bg.png');
+   background-position:right center;
+   background-size:auto;
+ }
+ .dot2ng
+ {
+   background-image:url('assets/images/dot-2.png');
+   background-position:left top;
+   background-size:initial;
+   margin-top:120px;
+   margin-left:-35px;
+ }
+ .dot1bg
+ {
+   background-image:url('assets/images/dot.png');
+   background-position:left bottom;
+   background-size:auto;
+   filter:contrast(1.5);
+ }
+ .dot2bg2
+ {
+   background-image:url('assets/images/dot-2.png');
+   background-position:right top;
+   background-size:auto;
+   margin-top:-75px;
+ }
+ .dotbg
+ {
+   background-image:url('assets/images/dot.png');
+   background-position:left;
+   background-size:auto;
+   margin-top:-105px;
+ }
+ .dot2bg3
+ {
+   background-image:url('assets/images/dot-2.png');
+   background-position:center right;
+   background-size:auto;
+   margin-left:-180px;
+   margin-top:20px;
+ }
+ .servicesbg
+ {
+   background-image:url('assets/images/services-bg.png');
+   background-position:center left;
+   background-size:auto;
+ }
+ .dotbg2
+ {
+   background-image:url('assets/images/dot.png');
+   background-position:right bottom;
+   background-size:auto;
+   margin-top:50px;
+ }
+ .dotbg3
+ {
+   background-image:url('assets/images/dot.png');
+   background-position:right top;
+   background-size:auto;
+   margin-left:-30px;
+   margin-top:10px;
+   filter:contrast(1.5);
+ }
+ .dot2bg4
+ {
+   background-image:url('assets/images/dot-2.png');
+   background-position:left bottom;
+   background-size:auto;
+   margin-left:-35px;
+   margin-top:-65px;
+   filter:contrast(1.5);
+ }
+ .fo{
+  font-size: 13px;
+  color: #ffff;
+ }
